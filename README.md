@@ -28,3 +28,5 @@ You can run the supporting material in two easy steps:
 # Check the region in the update.sh file
 ./create.sh my-servers servers.yml server-parameters.json
 ```
+WebAppLBDNSName LoadBalancer DNS Name : http://my-se-webap-ja0id72qsz0y-668738494.us-east-1.elb.amazonaws.com/
+
